@@ -1,0 +1,99 @@
+@CHARSET "UTF-8";
+
+body{
+	margin:0px 0px 0px 0px;
+	background-color:#F38983;
+}
+
+A:link{text-decoration:none;}
+A:visited{text-decoration:none;}
+A:hover{text-decoration:none;}
+
+.storeInfo_content{
+	padding:130px 150px 30px 180px;
+	height:auto;
+	width:900px;
+}
+.store_pic{
+	height:300px; width:300px;
+	background-color:black;
+	float:left
+}
+
+.storeInfo_ul{
+	height:auto;
+	margin-top: 20px;
+	padding-top:0px;
+}
+.storeInfo_box{
+	height:396px; width:496px;
+	margin:0px 40px 0px 20px;
+	padding:20px 20px 20px 20px;
+	float:right;
+	background-color: white;
+	border:solid 2px #F38983;
+}
+.starrate{
+	margin:0px 0px 20px 0px;
+	text-align:center;
+}
+.txt{
+	margin:0px 0px 20px 0px;
+	padding-left:10px;
+	color:black;
+	font-size:15px;
+	font-family:맑은 고딕;
+	text-align:center;
+}
+.map{
+	height:180px; width:500px;
+	background-color: #DCDCDF;
+	
+	padding:20px 0px 0px 0px;
+	font-size:50px;
+	font-family:맑은 고딕;
+	font-weight:bold;
+	text-align:center;
+	color:white;
+	position:absolute; left:530px; top:460px;
+}
+.result_img{
+	margin:0px 0px 20px 0px;
+}
+.result_value{
+	padding-left:5px;
+	
+	font-size:70px;
+	font-weight:bold;
+	font-family:맑은 고딕;
+	color:#DD5050;
+}
+.store_icon {
+	height: 120px;
+	width: 300px;
+	padding: 320px 0px 0px 0px;
+	background-color: white;
+	text-align:center;
+}
+
+.icon_box{
+	height:120px;	float:left;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	background-color:#DCDCDF;
+}
+
+.img_collection{
+	height:130px;	width:860px;
+	margin:20px 0px 0px 0px;
+	background-color:#DCDCDF;
+}
+.write_box{
+	height:400px;	width:860px;
+	margin:40px 0px 10px 0px;
+	background-color:#DCDCDF;
+}
+
+p{
+	
+}
