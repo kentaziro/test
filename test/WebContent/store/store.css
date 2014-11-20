@@ -13,9 +13,10 @@ A:visited{text-decoration:none;}
 A:hover{text-decoration:none;}
 
 .storeInfo_content, .picCollection_content{
-	padding:130px 150px 30px 180px;
+	padding: 130px 10% 30px 15%;
 	height:auto;
-	width:900px;
+	width: 71%;
+	min-width: 896px;
 }
 .store_pic{
 	height:300px; width:300px;
@@ -27,9 +28,10 @@ A:hover{text-decoration:none;}
 	height:auto;
 	margin-top: 20px;
 	padding-top:0px;
+	padding-left:0px;
 }
 .storeInfo_box{
-	height: 436px;	width: 536px;
+	height: 436px;	width: 526px;
 	margin: 0px 40px 0px 20px;
 	padding-top:20px;
 	float:right;
@@ -40,6 +42,7 @@ A:hover{text-decoration:none;}
 	position:absolute;
 	margin:0px 0px 20px 0px;
 	text-align:center;
+	min-width: 455px;
 }
 .rate_title{
 }
@@ -50,29 +53,29 @@ A:hover{text-decoration:none;}
 	font-size:15px;
 	font-family:맑은 고딕;
 }
-.map{
-	height:185px; width:500px;
+.map {
+	height: 200px; 	width: 450px;
 	background-color: #DCDCDF;
-	
-	margin-left:18px;
-	padding:0px 0px 0px 0px;
-	font-size:50px;
-	font-family:맑은 고딕;
-	font-weight:bold;
-	text-align:center;
-	color:white;
-	left:530px; top:460px;
+	margin-left: 9.5%;
+	padding: 0px 0px 0px 0px;
+	font-size: 50px;
+	font-family: 맑은 고딕;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+	left: 530px;
+	top: 460px;
 }
 .result_img{
 	margin:0px 0px 20px 0px;
 }
 .status_position{
 	position:absolute;
-	margin-top:45px;
+	margin-top:4%;
 }
 .category_position{
 	position:absolute;
-	margin-top:90px;
+	margin-top:7%;
 }
 .result_value{
 	padding-left:5px;
@@ -167,8 +170,10 @@ A:hover{text-decoration:none;}
 	width:758px;
 }
 .review_photo_position{
-	position:absolute;
+	width: 250px;
 	margin:10px 0px 0px 0px;
+	min-width: 260px;
+	position:absolute;
 }
 .updown_position{
 	position:absolute;
@@ -177,7 +182,7 @@ A:hover{text-decoration:none;}
 }
 .btn_position{
 	position:absolute;
-	margin:1.8% 0px 0px 51%;
+	margin:20px 0px 0px 650px;
 }
 .write_btn{
 	padding-left:530px;
